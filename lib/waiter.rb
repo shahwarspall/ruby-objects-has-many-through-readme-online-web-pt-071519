@@ -10,6 +10,6 @@ def initialize(name,yrs_experience)
 end
 
 def self.all
-  @all
+  @@all
 end 
 end
